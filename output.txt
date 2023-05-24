@@ -1,0 +1,18 @@
+total 5208
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:52 ./
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:52 ../
+-rw-r--r-- 1 Junior Ayihi 197609   18765 Apr 19 06:02 LICENSE.txt
+-rw-r--r-- 1 Junior Ayihi 197609  242076 Apr 19 06:02 ReleaseNotes.html
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:52 bin/
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:52 cmd/
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:52 dev/
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:52 etc/
+-rwxr-xr-x 1 Junior Ayihi 197609  137264 Apr 19 05:40 git-bash.exe*
+-rwxr-xr-x 1 Junior Ayihi 197609  136752 Apr 19 05:40 git-cmd.exe*
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:51 mingw64/
+dr-xr-xr-x 9 Junior Ayihi 197609       0 May 24 08:34 proc/
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 24 08:34 tmp/
+-rw-r--r-- 1 Junior Ayihi 197609 1252456 May 18 15:52 unins000.dat
+-rwxr-xr-x 1 Junior Ayihi 197609 3215248 May 18 15:50 unins000.exe*
+-rw-r--r-- 1 Junior Ayihi 197609   24183 May 18 15:52 unins000.msg
+drwxr-xr-x 1 Junior Ayihi 197609       0 May 18 15:52 usr/
