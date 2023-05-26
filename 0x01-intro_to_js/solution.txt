@@ -1,0 +1,14 @@
+1. Const is used when you never want a variable to change or do not intend changing it where as let is used when you want or intend to reassign values.  var variables can be updated and re-declared within its scope; let variables can be updated but not re-declared; const variables can neither be updated nor re-declared.
+
+2. A variable after being defined can be used to store information which is easily referenced. 
+
+3. String are declared using either single or double quotes.
+
+4. Yes, strings can be created with either quotes.
+
+5. "9" with quotes is a string and 9 is an integer. 
+
+6. i. Declaration is the term used to describe the creation of a variable.
+    ii. Redeclaration is declaring a variable multiple times
+    iii. Assignment is the process of designating a value to a variable.
+    iv. Reassignment involves changing the previous value of a variable. 
